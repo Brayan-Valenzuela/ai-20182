@@ -1,4 +1,4 @@
-# Inteligencia Artificial I 2018-1
+# Inteligencia Artificial I 2018-2
 
 _Regístrate [aquí](https://goo.gl/forms/VJRlUKah7DlMBLlf2)_. 
                                             
