@@ -45,9 +45,11 @@ del proyecto y también la solución a problemas  reales.
 
 - **Presentación (video y diapositivas) [+ 10%]**:  Se debe enviar un video corto (max 5 minutos) y un documento de máximo 5 páginas en donde se exponga: 
 
-1- La motivación para el desarrollo del proyecto
-2- El tema principal de inteligencia artificial abordado
-3- funcionamiento y simulación del proyecto
+1. La motivación para el desarrollo del proyecto
+
+2. El tema principal de inteligencia artificial abordado
+
+3.  funcionamiento y simulación del proyecto
 
 
 - **Preguntas**: Se realizarán preguntas cortas a los estudiantes unicamente relacionadas con el proyecto. 
