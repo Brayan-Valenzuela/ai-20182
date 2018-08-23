@@ -83,7 +83,7 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      W33 Aug14-Aug15    1.PYTHON            2.PANDAS
      W34 Aug21-Aug22    3.STATS             3.STATS-PSETS         
      W35 Aug28-Aug29    4.BAYES             4.BAYES-PSETS         
-     W35 Sep04-Sep05    QUIZPREP            QUIZ                Feb 25 PSETS 1, 2     
+     W35 Sep04-Sep05    QUIZPREP            QUIZ                Sep 6 PSETS 1, 2     
      W37 Sep11-Sep12    5.ML INTRO          6.ML METHODS        Sep 14 Registro primera calificación
      W38 Sep18-Sep19    7.NAIVE             7.NAIVE-PSETS     
      W39 Sep25-Sep26    8.IMGINTRO          9.IMGCLASS          Sep 30 PSETS 3
