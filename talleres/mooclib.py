@@ -9,7 +9,7 @@ def google_authenticate(timeout=30, PORT_NUMBER=8080):
 
     flow = client.flow_from_clientsecrets('utils/client_secrets.json',
                                           scope="profile email",
-                                          redirect_uri='http://127.0.0.1:'+str(PORT_NUMBER))
+                                          redirect_uri='http://localhost:'+str(PORT_NUMBER))
 
     auth_uri = flow.step1_get_authorize_url()
     print "CLICK ON THIS LINK TO AUTHENTICATE WITH YOUR GMAIL ACCOUNT"
@@ -57,11 +57,10 @@ def wait_for_auth(timeout=30, PORT_NUMBER=8080):
                 html = '<html><body onload="self.close();"/>closing</html>'
                 self.wfile.write(html)
                 # Send the html message
-                q = urlparse(self.path).query
-                tokens = q.split("=")
-                if len(tokens)==2 and tokens[0]=="code":
+                q = parse_qs(urlparse(self.path).query)
+                if "code" in q:
                     print "authentication succeeded"
-                    oauth_code = tokens[1]
+                    oauth_code = q["code"][0]
                 else:
                     print q
                 return
