@@ -86,37 +86,36 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      W35 Sep04-Sep05    QUIZPREP            QUIZ                Sep 6 PSETS 1, 2     
      W37 Sep11-Sep12    5.ML INTRO          6.ML METHODS        Sep 14 Registro primera calificación
      W38 Sep18-Sep19    7.NAIVE             7.NAIVE-PSETS     
-     W39 Sep25-Sep26    8.IMGINTRO          9.IMGCLASS          Sep 30 PSETS 3
-     W40 Oct02-Oct03    8.IMGINTRO          9.IMGCLASS  
-     W41 Oct09-Oct10    PSETS               PSETS               Semana de trabajo independiente            
-     W42 Oct16-Oct17    QUIZPREP            QUIZ                Oct 21 PSETS 4, 5
-     W43 Oct23-Oct24    PROJECT             PROJECT             Viaje SIPAIM. Trabajo en Priyecto
-     W44 Oct30-Oct31    11.KMEANS		    11.KMEANS           Semana de Ingeniería UIS
-     W45 Nov06-Nov07    12.PLAN             12.PLAN-SETS	
-     W46 Nov13-Nov14    13.GA               13.GA-PSETS        
-     W47 Nov20-Nov21    14.SA               14.SA-PSET	        Dic02 PSETS 6 7 8 
-     W48 Nov27-Nov28    QUIZPREP            QUIZ		
-     W49 Dic04-Dic05    15.Deep L           15.Deep L
-     W50 Dic11-Dic12    PROJECT             PROJECT             Entrega y sustentación de proyectos
+
+       ...              ...                 ...
+    
+
+     W03 Jan15-Jan16    COMEBACK            COMEBACK             
+     W04 Jan22-Jan23    8.IMGINTRO          9.IMGCLASS  
+     W05 Jan29-Jan30    QUIZPREP            QUIZ                Feb 3 PSETS 3, 4, 5            
+     W06 Feb05-Feb06    PROJECT             PROJECT (DL)             
+     W07 Feb12-Feb13    11.KMEANS		    11.KMEANS           
+     W08 Feb19-Feb20    12.PLAN             12.PLAN-SETS	
+     W09 Feb26-Feb27    13.GA               13.GA-PSETS        
+     W10 Mar05-Mar06    14.SA               14.SA-PSET	        Mar10 PSETS 6 7 8 
+     W11 Mar12-Mar13    QUIZPREP            QUIZ		
+     W48 Mar19-         PROJECT             PROJECT             Entrega y sustentación de proyectos
+     W50      -         15.Deep L           15.Deep L           ** Optional and free
+
 
      
 
 
     Sep14 -        -> Registro primera calificación
     Sep16 -        -> Último día cancelación materias
-    Oct08 - Oct12  -> Semana estudiantil de trabajo independiente
-    Nov30 -        -> Finalización clase
-    Dic03-Dic12    -> Evaluaciones finales
-    Dic14 -        -> Registro calificaciones finales
+    Mar08 -        -> Finalización clase
+    Mar11 - Mar19  -> Evaluaciones finales
+    Mar20 -        -> Registro calificaciones finales
 
 
 
 **CUALQUIER ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
 **LOS PROBLEMSETS ESTAN SUJETOS A CAMBIOS QUE SERÁN DEBIDAMENTE INFORMADOS%**
     
-[Calendario academico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2018/acuerdoAcad094_2018.pdf)
-
-
-# PARCIAL MAÑANA!!
- Note Ago 14
+[Calendario academico](https://www.uis.edu.co/webUIS/es/rss/imagenes/noticia_1153_10288_2.pdf)
 
