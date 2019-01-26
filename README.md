@@ -90,17 +90,17 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
        ...              ...                 ...
     
 
-     W03 Jan15-Jan16    COMEBACK            COMEBACK             
-     W04 Jan22-Jan23    8.IMGINTRO          9.IMGCLASS  
-     W05 Jan29-Jan30    QUIZPREP            QUIZ                Feb 3 PSETS 3, 4, 5            
-     W06 Feb05-Feb06    PROJECT             PROJECT (DL)             
-     W07 Feb12-Feb13    11.KMEANS		    11.KMEANS           
-     W08 Feb19-Feb20    12.PLAN             12.PLAN-SETS	
-     W09 Feb26-Feb27    13.GA               13.GA-PSETS        
-     W10 Mar05-Mar06    14.SA               14.SA-PSET	        Mar10 PSETS 6 7 8 
-     W11 Mar12-Mar13    QUIZPREP            QUIZ		
-     W48 Mar19-         PROJECT             PROJECT             Entrega y sustentación de proyectos
-     W50      -         15.Deep L           15.Deep L           ** Optional and free
+     W05 Jan29-Jan30    COMEBACK            COMEBACK             
+     W06 Feb05-Feb06    8.IMGINTRO          9.IMGCLASS  
+     W07 Feb12-Feb13    QUIZPREP            QUIZ                Feb 3 PSETS 3, 4, 5            
+     W08 Feb19-Feb20    PROJECT             PROJECT (DL)             
+     W09 Feb26-Feb27    11.KMEANS		    11.KMEANS           
+     W10 Mar05-Mar06    12.PLAN             12.PLAN-SETS	
+     W11 Mar12-Mar13    13.GA               13.GA-PSETS        
+     W12 Mar19-Mar20    14.SA               14.SA-PSET	        Mar10 PSETS 6 7 8 
+     W13 Mar26-Mar27    QUIZPREP            QUIZ		
+     W14 Apr02-Apr03    PROJECT             PROJECT             Entrega y sustentación de proyectos
+     W15      -         15.Deep L           15.Deep L           ** Optional and free
 
 
      
@@ -108,9 +108,10 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
 
     Sep14 -        -> Registro primera calificación
     Sep16 -        -> Último día cancelación materias
-    Mar08 -        -> Finalización clase
-    Mar11 - Mar19  -> Evaluaciones finales
-    Mar20 -        -> Registro calificaciones finales
+
+    XXXXX -        -> Finalización clase
+    XXXXX - XXXXX  -> Evaluaciones finales
+    XXXXX -        -> Registro calificaciones finales
 
 
 
