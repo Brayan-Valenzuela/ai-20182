@@ -91,15 +91,15 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
     
 
      W05 Jan29-Jan30    COMEBACK            COMEBACK             
-     W06 Feb05-Feb06    8.IMGINTRO          9.IMGCLASS  
+     W06 Feb05-Feb06    8.IMGINTRO          9.IMGCLASS          Jornada de reflexión (Feb05)
      W07 Feb12-Feb13    QUIZPREP            QUIZ                Feb 16 PSETS 3, 4, 5            
-     W08 Feb19-Feb20    PROJECT             PROJECT (DL)             
+     W08 Feb19-Feb20    PROJECT             PROJECT (DL)        Jornada de reflexión (Feb20)     
      W09 Feb26-Feb27    11.KMEANS		    11.KMEANS           
      W10 Mar05-Mar06    12.PLAN             12.PLAN-SETS	
      W11 Mar12-Mar13    13.GA               13.GA-PSETS        
-     W12 Mar19-Mar20    14.SA               14.SA-PSET	        Mar10 PSETS 6 7 8 
+     W12 Mar19-Mar20    14.SA               14.SA-PSET	        Mar10 PSETS 6 7 8 Jornada de reflexión (Mar19)
      W13 Mar26-Mar27    QUIZPREP            QUIZ		
-     W14 Apr02-Apr03    PROJECT             PROJECT             Entrega y sustentación de proyectos
+     W14 Apr02-Apr03    PROJECT             PROJECT             Entrega y sustentación de proyectos Jornada de reflexión (Apr03)
      W15      -         15. Deep L           15.Deep L           ** Optional and free
 
 
